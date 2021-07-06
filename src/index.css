@@ -32,7 +32,6 @@ button {
   padding: 1rem 2rem;
   margin: 0;
   text-decoration: none;
-  background: #414141;
   color: #ffffff;
   font-family: inherit;
   font-size: 1.6rem;
@@ -42,6 +41,14 @@ button {
   -webkit-appearance: none;
   -moz-appearance: none;
 }
+
+.home_color {
+  background: #002C5F;
+}
+
+.away_color {
+  background: #C60C30;
+} 
 
 button:hover,
 button:focus {

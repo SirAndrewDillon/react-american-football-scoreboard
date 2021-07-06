@@ -1,3 +1,24 @@
+
+![](site.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Module Project: React Components and Components State - American Football Scoreboard
 
 This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored React components and component state. During the module, you studied what React is, what React components are and how to build them, what state is and how to make a component stateful, and how to change a components state with a click handler. In your project you will demonstrate proficiency of these subjects and principles by creating an application using each of these.
@@ -73,3 +94,7 @@ After finishing your required elements, you can push your work further. These go
 - Play around with the styling and make this project your own! Maybe make it a soccer (non-american football) scoreboard, or a rugby or baseball scoreboard
 - Add a button that changes which quarter the game is in, and then render the state quarter value on the scoreboard
 - Make the entire board fully functional with buttons and state! (If you want to make a timer, you'll have to look into useEffect)
+
+
+
+Andy Dillon
